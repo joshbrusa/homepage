@@ -1,0 +1,35 @@
+/* css reset */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #fdfdfc;
+  font-family: "Roboto", sans-serif;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+article {
+  margin: 10px;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-position: inside;
+}
