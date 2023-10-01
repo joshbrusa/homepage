@@ -1,10 +1,3 @@
-# portfolio
+# Homepage
 
-## Summary
-
-Portolfio website.
-
-## Technologies
-
-- HTML
-- CSS
+Homepage website.
