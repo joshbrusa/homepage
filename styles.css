@@ -62,6 +62,16 @@ a:hover::after {
   top: 0;
 }
 
+.heading-link {
+  white-space: normal;
+  text-align: left;
+}
+
+.heading-link:focus-visible {
+  outline: 2px solid rgba(79, 192, 141, 0.9);
+  outline-offset: 4px;
+}
+
 ul {
   list-style: none;
   display: flex;
